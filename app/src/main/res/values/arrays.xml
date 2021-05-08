@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/malagueta_min</item>
+        <item>@drawable/catedral_min</item>
+        <item>@drawable/farola_min</item>
+        <item>@drawable/castillo_de_gibralfaro_min</item>
+        <item>@drawable/teatro_romano_min</item>
+        <item>@drawable/alcazaba_min</item>
+    </array>
+</resources>
